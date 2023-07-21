@@ -2,10 +2,10 @@ server:
     port: 8082
 spring:
     application:
-        name: vehicle-registration-service
+        name: user-service
     datasource:
         password: password
-        url: jdbc:postgresql://localhost:5432/vehicle
+        url: jdbc:postgresql://localhost:5432/user
         username: user
 
     flyway:

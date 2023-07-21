@@ -9,7 +9,7 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>com.fhdo</groupId>
-    <artifactId>vehicle-registration</artifactId>
+    <artifactId>user-service</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>vehicle-registration</name>
     <description>vehicle-registration</description>
